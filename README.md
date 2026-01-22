@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **Job portal**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **GO**
 
 - 👯 I’m looking to collaborate on **Blockchain**
 
-- 🤝 I’m looking for help with **Rust**
+- 🤝 I’m looking for help with **Go**
 
 - 👨‍💻 All of my projects are available at [stanley-aribobo.vercel.app](stanley-aribobo.vercel.app)
 
-- 💬 Ask me about **ReactJs, NextJs, NodeJs,MongoDb**
+- 💬 Ask me about **ReactJs, NextJs, Go, NodeJs, MongoDb**
 
 - 📫 How to reach me **onarixon@gmail.com**
 
