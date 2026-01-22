@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain**
 
-- 🤝 I’m looking for help with **Go**
+- 🤝 I’m looking for help with **GO**
 
 - 👨‍💻 All of my projects are available at [stanley-aribobo.vercel.app](stanley-aribobo.vercel.app)
 
